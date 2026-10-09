@@ -5,7 +5,7 @@ title: Home
 
 Rob@uO is the Robotics at uOttawa research cluster. We are an interdisciplinary group of uOttawa faculty and students focused on robotics, control and intelligent systems. We develop deployable robotic and control systems with combined sensing, control, and learning. Our cluster maintains a strong engagement in industry and government applications.
 
-RobuO brings together faculty across Mechanical Engineering, Electrical Engineering and Computer Science working on applied robotics and AI.
+Rob@uO brings together faculty across Mechanical Engineering, Electrical Engineering and Computer Science working on applied robotics and AI.
 
 ---
 
